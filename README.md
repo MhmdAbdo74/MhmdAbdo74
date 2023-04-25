@@ -233,15 +233,8 @@
       />
     </a>
    
-    </a>
-    <a href="https://www.w3.org/Style/CSS" target="_blank" rel="noreferrer"  title="css">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css"
-        width="40"
-        height="40"
-      />
-    </a>
+   
+    
   
     
 
