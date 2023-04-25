@@ -5,7 +5,6 @@
 
 ## 💫 About Me:
 - 🌱 I’m currently learning Cloud and DevOps
-- 📝 I regularly write articles on [https://omarfathy.hashnode.dev](https://omarfathy.hashnode.dev)
 
 
 ## 💻 Languages and Tools:
@@ -233,13 +232,7 @@
         height="40"
       />
     </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="HTML5">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html"
-        width="40"
-        height="40"
-      />
+   
     </a>
     <a href="https://www.w3.org/Style/CSS" target="_blank" rel="noreferrer"  title="css">
       <img
@@ -249,39 +242,8 @@
         height="40"
       />
     </a>
-    <a href="hhttps://www.javascript.com/" target="_blank" rel="noreferrer"  title="JavaScript">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"  title="sass">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        alt="sass"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  title="bootstrap">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"  title="tailwind">
-      <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-        alt="tailwind"
-        width="40"
-        height="40"
-      />
-    </a>
-    </p>
+  
+    
 
 ### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/omarmfathy219)&nbsp; [![Twitter](https://github.com/omarmfathy219/omarmfathy219/blob/master/twitter.png)](https://twitter.com/omarmfathy219)&nbsp;&nbsp;
