@@ -241,6 +241,8 @@
   
     
 
-### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://github.com/MhmdAbdo74/MhmdAbdo74/blob/master/linkedin.png)](https://www.linkedin.com/in/mohamed-abdo-712852208)&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhmdAbdo74&show_icons=true&locale=en&layout=compact" alt="MhmdAbdo74" />
+## 📩 Connect with me
+<p align="center">
+    <a href="mailto:mohamed202116370@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/mohamed-abdo-712852208/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+</p>
