@@ -234,13 +234,7 @@
         width="40"
         height="40"
       />
-    </a>
-   
-   
-    
-  
-    
-
+    </a>  
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:mohamed202116370@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
