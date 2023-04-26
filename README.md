@@ -6,6 +6,9 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning Cloud and DevOps
 
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 ## 💻 Languages and Tools:
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"  title="AWS">
